@@ -36,3 +36,5 @@ while using your tongue. Of course, the apples fall at random speeds, so it migh
 is where it gets really challenging. The more apples, the more points. If you fail to catch one of the apples and if it hits the ground, the 
 block will disappear, making the player lose movement. If the player gets hit by the apple, it falls and it is game over. However, you can 
 play the game again if you lost by left clicking to go back to the title screen and left clicking again to go to the gameplay.
+
+![This is an image](/data/FruitCatchFinal.PNG)
