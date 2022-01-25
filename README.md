@@ -10,3 +10,12 @@ random speed to get you. If you miss one of the apples, part of the floor disapp
 apples with your head, you fall and you lose.
 
 ![This is an image](/data/FruitCatcher.PNG)
+
+# Biggest Challenges
+The biggest challenge I have ever had was getting the tongue to work the right way. There were so many loopholes that I had to fix, such
+as moving while using your tongue, which makes the game a lot easier and less fun, pressing j and l at the same time, which made the
+tongue fly to other places. I had to use Boolean a lot to get this to work the way I wanted it to, and I figured it out eventually. I also had a
+problem with the fruits as well; falling to places I did not want them in. I had to make each apple have an individual x coordinate to make
+that work. I also had a problem with the blocks when they were disappearing, affecting the player in some way. The way I fixed that is by
+making an invisible wall to block the player from going there. Since I have a lot of experience with music composing and tracking, I made
+the music in a program called Famitracker.
