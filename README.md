@@ -19,3 +19,5 @@ problem with the fruits as well; falling to places I did not want them in. I had
 that work. I also had a problem with the blocks when they were disappearing, affecting the player in some way. The way I fixed that is by
 making an invisible wall to block the player from going there. Since I have a lot of experience with music composing and tracking, I made
 the music in a program called Famitracker.
+
+![This is an image](/data/BetaFruit.PNG)
