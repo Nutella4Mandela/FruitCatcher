@@ -9,4 +9,4 @@ position. The trick is that the only way to catch them is to touch the fruit wit
 random speed to get you. If you miss one of the apples, part of the floor disappears, making your movement limited. If you touch one of the 
 apples with your head, you fall and you lose.
 
-![This is an image]
+![This is an image](/data/FruitCatcher.PNG)
