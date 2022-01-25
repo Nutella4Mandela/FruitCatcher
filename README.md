@@ -21,3 +21,18 @@ making an invisible wall to block the player from going there. Since I have a lo
 the music in a program called Famitracker.
 
 ![This is an image](/data/BetaFruit.PNG)
+
+# Unimplemented Features
+I wanted the rabbit sprites to be animated in game, but since I had limited time, I could not implement it in the game, unfortunately. I 
+only succeeded in only adding the rabbit walking animation in the title screen, but not in the gameplay. I also wanted to add more than 
+just apples in the game(As it is called Fruit Catcher), but my time was limited. I also wanted to add more sound, but due to constrains, I 
+only had the chance to get one music in. I also wanted to add a tongue sprite as well.
+
+# Instructions
+The game starts at the title screen, where you see the rabbit walking through endless blocks. To start the game, you click the left mouse 
+button. In the game, you can do two things: move, or use your tongue. To move around, you must press A or D. To use your tongue, you 
+press J or L depending on where you want to target. To keep your tongue still up, you must hold one of the buttons. You cannot move 
+while using your tongue. Of course, the apples fall at random speeds, so it might take some time for them to fall, but once they do, that 
+is where it gets really challenging. The more apples, the more points. If you fail to catch one of the apples and if it hits the ground, the 
+block will disappear, making the player lose movement. If the player gets hit by the apple, it falls and it is game over. However, you can 
+play the game again if you lost by left clicking to go back to the title screen and left clicking again to go to the gameplay.
