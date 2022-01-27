@@ -28,6 +28,8 @@ only succeeded in only adding the rabbit walking animation in the title screen, 
 just apples in the game(As it is called Fruit Catcher), but my time was limited. I also wanted to add more sound, but due to constrains, I 
 only had the chance to get one music in. I also wanted to add a tongue sprite as well.
 
+![This is an image](/data/FamiTracker.PNG)
+
 # Instructions
 The game starts at the title screen, where you see the rabbit walking through endless blocks. To start the game, you click the left mouse 
 button. In the game, you can do two things: move, or use your tongue. To move around, you must press A or D. To use your tongue, you 
